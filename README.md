@@ -1,2 +1,2 @@
-# my-picture
-我的大头照（No Copyright）
+# NoCopyright 资源分享
+我的大头照和户籍
